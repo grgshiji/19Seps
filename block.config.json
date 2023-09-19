@@ -1,0 +1,20 @@
+{
+  "blockId": "XPYLE-pFC0E7kmnIZ67UX",
+  "name": "19Seps_Block3",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/19Seps.git",
+    "ssh": "git@github.com:grgshiji/19Seps.git",
+    "branch": "block_19Seps_Block3"
+  },
+  "parentBlockIDs": [
+    "6-fYEJcbVcjxkzOaoy6y5"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
